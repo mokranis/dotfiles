@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = soniamokrani15@gmail.com
+	name = sonia mokrani
